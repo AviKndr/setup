@@ -1,0 +1,6 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "window.titleBarStyle": "custom",  
+    "workbench.statusBar.visible": true,
+    "python.pythonPath": "/usr/bin/python3"
+}
